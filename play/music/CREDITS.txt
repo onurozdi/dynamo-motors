@@ -14,3 +14,6 @@ Tesise göre setler (her tesis açıldıkça havuza eklenir):
 
 (garage-1..giga-2 orijinal Pixabay dosya adları kaydedilmedi;
 kaynak klasör: ev-tycoon/music/ — orijinal kaliteli kopyalar orada durur.)
+
+--- SFX ---
+sfx/boot-neon.mp3 — "Light Neon Dysfunction" by freesound_community (Pixabay, ID 23625), 5.2s excerpt, Pixabay Content License
